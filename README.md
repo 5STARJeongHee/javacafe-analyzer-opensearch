@@ -1,21 +1,6 @@
+javacafe analyzer의 opensearch 버전의 클론 코드입니다.
 # opensearch-plugin
 자바카페 Opensearch 플러그인
-
-[opensearch-plugin](https://github.com/javacafe-project/opensearch-plugin)은 사용자가 한글을 검색하기 쉽게 만들어진 플러그인 입니다.
-
-> 링크 다운로드
->
->[7.0.0](https://github.com/javacafe-project/opensearch-plugin/releases/tag/v7.0.0)
->
->[6.7.0](https://github.com/javacafe-project/opensearch-plugin/releases/tag/v6.7.0)
->
->[6.6.2](https://github.com/javacafe-project/opensearch-plugin/releases/tag/v6.6.2)
->
->[6.6.1](https://github.com/javacafe-project/opensearch-plugin/releases/tag/v6.6.1)
->
->[6.6.0](https://github.com/javacafe-project/opensearch-plugin/releases/tag/v6.6.0)
->
->[6.5.4](https://github.com/javacafe-project/opensearch-plugin/releases/tag/v6.5.4)
 
 # 설치방법
 >~~~~
@@ -24,7 +9,7 @@
 
 # 제공기능
 
-엘라스틱서치 혹은 솔라의 최신버전에서 사용가능한 한글기반의 자동완성/검색결과를 더욱 효율적으로 사용하기 위해 개발된 플러그인 이며 아래와 같은 기능을 제공합니다. 
+오픈서치 혹은 솔라의 최신버전에서 사용가능한 한글기반의 자동완성/검색결과를 더욱 효율적으로 사용하기 위해 개발된 플러그인 이며 아래와 같은 기능을 제공합니다. 
 
 ## 초성추출
 검색어로 들어오는 단어가 초성인 경우 검색 결과 혹은 자동완성의 결과를 초성으로 매칭하여 검색되게 하는 플러그인 입니다. 
